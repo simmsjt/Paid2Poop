@@ -1,0 +1,40 @@
+
+body{
+  background-image: url("pottypicture.jpeg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 1202px  1080px;
+}
+
+#contentBox{
+    margin: auto;
+    margin-top: 40px;
+    border-radius: 25px;
+    background:  #800020;
+    padding: 20px;
+    height: 400px;
+    width: 60%;
+    background: rgba(128, 0, 32, 0.7);
+    
+}
+
+h1{
+  text-align: center;
+  color: yellow;
+  margin: auto;
+}
+h3{
+ display:inline-block;
+  color: black;
+}
+button{
+  font-size: 26px;
+   display: inline-block;
+  
+}
+
+#results{
+  color:black;
+  font-size:30px;
+  
+}
